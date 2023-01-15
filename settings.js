@@ -11,7 +11,7 @@ global.APIs = {
    alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
 }
 
-// Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
+// Free apikey (penVVMUn)
 global.APIKeys = {
    'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
